@@ -1,5 +1,3 @@
-
-
 export function books(state = [], action){
   switch (action.type) {
   case "ADD_BOOK":
